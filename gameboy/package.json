@@ -1,0 +1,43 @@
+{
+  "name": "gameboy",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@dynamic-labs/ethereum": "^1.4.1",
+    "@dynamic-labs/sdk-react-core": "^1.4.1",
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/joy": "^5.0.0-beta.24",
+    "@solana/spl-token-swap": "^0.4.0",
+    "@solana/web3.js": "^1.91.1",
+    "@tanstack/react-query": "5.0.5",
+    "@types/numeral": "^2.0.5",
+    "axios": "^1.6.7",
+    "bech32": "^2.0.0",
+    "gh-pages": "^6.1.1",
+    "next": "13.5.3",
+    "numeral": "^2.0.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "swr": "^2.2.4",
+    "viem": "^2.8.18"
+  },
+  "devDependencies": {
+    "@types/node": "^20.7.2",
+    "@types/react": "^18.2.22",
+    "@types/react-dom": "^18.2.7",
+    "bufferutil": "^4.0.7",
+    "encoding": "^0.1.13",
+    "lokijs": "^1.5.12",
+    "pino-pretty": "^10.2.0",
+    "supports-color": "^9.4.0",
+    "typescript": "^5.2.2",
+    "utf-8-validate": "^6.0.3"
+  }
+}

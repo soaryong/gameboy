@@ -1,0 +1,16 @@
+## Gameboy Contract
+
+```shell
+##### base-sepolia
+✅  [Success]Hash: 0x590b662f160c8fe428e47c02e21c5fb39f07791fee0425b87cf3000a8326609f
+Contract Address: 0x07fC85d3C1154Ab432fC0A833917673304f22A51
+Block: 7761428
+Paid: 0.000001581408478741 ETH (1580999 gas * 0.001000259 gwei)
+
+
+##### base-sepolia
+✅  [Success]Hash: 0xac6bc767c91ba0dd6090ba94335a1d542a694122462d198ed97f293718d80362
+Contract Address: 0x1493f6D929d7C56CbBD51Aa5EE83Fb86A41166A6
+Block: 7761428
+Paid: 0.000000266895107934 ETH (266826 gas * 0.001000259 gwei)
+```
